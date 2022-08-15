@@ -1,0 +1,12 @@
+{
+  "/api/add": "pages/api/add.js",
+  "/api/body": "pages/api/body.js",
+  "/api": "pages/api.js",
+  "/free-keyword-density-analyser": "pages/free-keyword-density-analyser.html",
+  "/": "pages/index.html",
+  "/texts": "pages/texts.html",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

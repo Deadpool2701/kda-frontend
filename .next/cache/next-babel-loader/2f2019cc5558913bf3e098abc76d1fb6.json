@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport Head from 'next/head';\nimport Image from 'next/image';\nexport default function Texts() {\n  return /*#__PURE__*/_jsx(\"div\", {});\n}","map":null,"metadata":{},"sourceType":"module"}
